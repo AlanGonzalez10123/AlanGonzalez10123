@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I’m Alan Gonzalez Osorio, <br>a first-generation Mexican-American <br>and senior at William & Mary <br>double majoring in Computer Science and Applied Mathematics. <br>I’m passionate about full-stack development and AI engineering, <br>and I love building projects that create real-world impact. <br>I’m always excited to learn, collaborate, and tackle meaningful challenges.
+Hey! I’m Alan Gonzalez Osorio, a first-generation Mexican-American and senior at William & Mary double majoring in Computer Science and Applied Mathematics. I’m passionate about full-stack development and AI engineering, and I love building projects that create real-world impact. I’m always excited to learn, collaborate, and tackle meaningful challenges.
 
 
 ## 🌐 Socials:
